@@ -1,0 +1,5 @@
+metric,pearson_r,pearson_p,spearman_rho,spearman_p
+views,0.08,0.85,0.21,0.61
+engagement_rate,0.51,0.2,0.38,0.35
+positive_pct,-0.3,0.48,-0.51,0.19
+negative_pct,0.4,0.32,0.55,0.16
